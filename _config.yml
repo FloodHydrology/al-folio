@@ -28,7 +28,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: Blog
-blog_description: Ramblings about about water, RStats, and life as an academic
+blog_description: Ramblings about about water, RStats, and life as a postdoc
 
 # Pagination
 paginate: 4
