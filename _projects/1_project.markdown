@@ -1,55 +1,41 @@
 ---
 layout: page
-title: Project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: Delmarva Wetlands
+description: Wetlandscape Hydrology and Biogeochemistry
+img: /assets/img/dry_wetland.jpg
 ---
-
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-
 <div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
+    <img class="col three center" src="{{ site.baseurl }}/assets/img/GrassyBay.jpg" alt="" title="Grassy Bay"/>
 </div>
 <div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+  Large Delmarva Bay wetland located near the Maryland/Delaware Border on TNC property.
+</div>
+
+I'm currently part of a large interdisciplinary team exploring hydrology, microbrial ecology, and carbon dynamics of Delmarva Bay Wetlands. The overarching theme of our work is to identify dominant drivers that can be used to  manage, preserve, and restore these unique landscape features. Our larger collaborative group inlcudes scientists from UMD, Virginia Tech, USDA, EPA, USFWS, and TNC.  
+
+My role in this project includes (1) developing and maintinaing a well network accross 6 headwater catchments [50+ wells!], and (2) developing a process-based hydrologic model to explore potential drivers of wetland connectivity.  
+
+Other notable activities from the Palmer Lab include:
+1. [Alec Armstrong](https://www.sesync.org/users/aarmstrong) is characterizing sources and drivers of DOM composition. 
+2. [Kelly Hondula](https://www.sesync.org/users/khondula) is quantifying spatial and temporal variability in methane flux source areas.
+3. [Anna Kottkamp](https://palmerlab.umd.edu/team/) is examining carbon stabililzation mechanisms in mineral-based wetland soils. [Why do restored wetlands not store carbon efficiently?]
+4. [Christine Maietta](https://www.sesync.org/users/cprasse) is examining spatial variability in microbrial communities and their potential impact on wetland biogeochemical cycling. 
+5. [Graham Stewart](https://palmerlab.umd.edu/team/) is comparing drivers of carbon emmissions accross restored and natural Delmarva Bay wetland.  
+6. [Michael Williams](https://www.mdsg.umd.edu/reu/mentors/michael-williams-phd) -- in addition to being the Palmer Lab Manager and maintaing three flux towers -- Michael is using tracer addition experiments to quanitfy wetland hydraulics and residence time distribrutions. 
+
+<div class="img_row">
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/Nate2.jpg" alt="" title="Nate taking survey notes"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/Kelly.jpg" alt="" title="Kelly taking a dissolved gas sample"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/Kate_Soils.jpg" alt="" title="Kate Tully giving a lesson on wetland soils"/>
 </div>
 <div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/Alec.jpg" alt="" title="Alec taking a DOM samplin in the cold Maryland winter"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/Anna.jpg" alt="" title="Anna taking a soil core for extraction analysis"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/Graham.jpg" alt="" title="Graham trecking to the Flux tower site!"/>
+</div>
+<div class="img_row">
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/dry_wetland.jpg" alt="" title="Upland wetland during fall draw down"/>
 </div>
 <div class="col three caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-<div class="img_row">
-    <img class="col two left" src="/img/6.jpg"/>
-    <img class="col one left" src="/img/11.jpg"/>
+  A few pictures of our team in the field. I'm incredibly lucky to be part of search a talented and dynamic group!
 </div>
