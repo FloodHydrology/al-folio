@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Delmarva Wetlands
-description: Wetlandscape Hydrology and Biogeochemistry
+description: Wetland Hydrology and Biogeochemistry
 img: /assets/img/dry_wetland.jpg
 ---
 <div class="img_row">
