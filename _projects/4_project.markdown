@@ -7,7 +7,7 @@ img: /assets/img/corrosion_2.jpg
 
 Road salt is an emerging water quality concern in the US Midwest and Northeast. In these regions, we apply >18 million metric tons of road salt annually. (This translates to roughly 62.1 kg/person!) Most of this salt makes its way into adjacent streams and aquifers, resulting in degradation of both aquatic ecosystems and water infrastructure. 
 
-In this study, we examined linkages between road salt application, corrosion in private well systems, and the potential for lead leaching. We did this through a combination of citizen science sampling, bench scale corrosion experiments, and simple spatial modeling. Results directly link road salt application and lead leaching, highlighting the need to consider private well systems in road salt management plans. For more information, see [project sit here](http://www.uswaterstudy.org/projects/lead-in-water/orleans_new-york/)!
+In this study, we examined linkages between road salt application, corrosion in private well systems, and the potential for lead leaching in those systems. We did this through a combination of citizen science sampling, bench scale corrosion experiments, and simple spatial modeling. Results directly link road salt application and lead leaching, highlighting the need to consider private well systems in road salt management plans. For more information, see [project site here](http://www.uswaterstudy.org/projects/lead-in-water/orleans_new-york/)!
 
 
 <div class="img_row">

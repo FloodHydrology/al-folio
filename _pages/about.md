@@ -18,4 +18,4 @@ My work normally falls into three broad categories:
 2. Ecological engineering (with a focus on restoration)
 3. Watershed management
 
-I'm currently a Postdoctoral Fellow at a the [National Socio-Environmental Synthesis Center](https://www.sesync.org/users/njones){:target="\_blank"} and a member of the [Palmer Research Team](https://palmerlab.umd.edu/){:target="\_blank"}. For more information on my current research, please visit my [project](/projects) and [publication](/publications) pages.    
+I'm currently a Postdoctoral Fellow at the [National Socio-Environmental Synthesis Center](https://www.sesync.org/users/njones){:target="\_blank"} and a member of the [Palmer Research Team](https://palmerlab.umd.edu/){:target="\_blank"}. For more information on my current research, please visit my [project](/projects) and [publication](/publications) pages.    

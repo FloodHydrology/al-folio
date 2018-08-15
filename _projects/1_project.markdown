@@ -20,7 +20,7 @@ Other notable activities from the Palmer Lab include:
 2. [Kelly Hondula](https://www.sesync.org/users/khondula) is quantifying spatial and temporal variability in methane flux source areas.
 3. [Anna Kottkamp](https://palmerlab.umd.edu/team/) is examining carbon stabilization mechanisms in mineral-based wetland soils. [Why do restored wetlands not store carbon efficiently?]
 4. [Christine Maietta](https://www.sesync.org/users/cprasse) is examining spatial variability in microbial communities and their potential impact on wetland biogeochemical cycling. 
-5. [Graham Stewart](https://palmerlab.umd.edu/team/) is comparing drivers of carbon emissions across restored and natural Delmarva Bay wetland.  
+5. [Graham Stewart](https://palmerlab.umd.edu/team/) is comparing drivers of carbon emissions across restored and natural Delmarva Bay wetlands.  
 6. [Michael Williams](https://www.mdsg.umd.edu/reu/mentors/michael-williams-phd) -- in addition to being the Palmer Lab Manager and maintaining three flux towers -- Michael is using tracer addition experiments to quantify wetland hydraulics and residence time distributions. 
 
 <div class="img_row">
