@@ -11,7 +11,7 @@ news: true
 social: true
 ---
 
-**The goal of my research is to improve our water resources**, and more specifically, provide policy makers, practioners, and researchers with actionable results that can be used to address complex challenges at the interphase of social and environmental systems. To accomplish this, I approach problems from a systems perspective and integrate tools [and collaborators!] from across engineering, environmental science, and the social sciences.  
+**The goal of my research is to improve our water resources**, and more specifically, provide policy makers, practioners, and researchers with actionable results that can be used to address complex challenges at the interface of social and environmental systems. To accomplish this, I approach problems from a systems perspective and integrate tools [and collaborators!] from across engineering, environmental science, and the social sciences.  
 
 My work normally falls into three broad categories: 
 1. Hydrologic and biogeochemical processes
