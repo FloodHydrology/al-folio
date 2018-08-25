@@ -12,11 +12,7 @@ Salt-water intrusion (SWI) is a new challenge for farmers on the Eastern Shore. 
 This week, I helped Kate and Keryn install new groundwater wells at several of their sites. I had a great time and definitely learned a lot about agriculture on the Eastern Shore and salt-water intrusion.  Below are a few pictures!
 
 <div class="img_row">
-    <img class="col three" src="{{ site.baseurl }}/assets/img/chesepeake.jpg">
-</div>
-
-<div class="img_row">
-    <img class="col one" src="{{ site.baseurl }}/assets/img/kate.jpg">
-    <img class="col one" src="{{ site.baseurl }}/assets/img/soil.jpg">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/spider.jpg">
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/dock.jpg">
+    <img class="col one center" src="{{ site.baseurl }}/assets/img/soil.jpg">
+    <img class="col one right" src="{{ site.baseurl }}/assets/img/kate.jpg">
 </div>
