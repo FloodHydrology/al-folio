@@ -85,7 +85,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Jones
 
   style: apa
   locale: en
